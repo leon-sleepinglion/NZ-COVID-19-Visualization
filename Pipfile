@@ -8,12 +8,12 @@ verify_ssl = true
 [packages]
 requests = "*"
 bs4 = "*"
-datefinder = "*"
 jupyter = "*"
 folium = "*"
 pandas = "*"
 branca = "*"
 wget = "*"
+jsonschema = "*"
 
 [requires]
 python_version = "3.7"
